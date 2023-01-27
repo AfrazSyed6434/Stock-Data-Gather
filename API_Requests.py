@@ -3,7 +3,7 @@ import json
 import inspect
 
 from datetime import datetime
-api_token = '0ff0c8353aa45686bd999f354792fe22:5593a83b9e79b5ce0e9eef0288b3ef4c'
+api_token = ''
 
 def stockSummaryData(company_symbol):
     current_frame = inspect.currentframe()
