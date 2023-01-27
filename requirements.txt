@@ -1,0 +1,8 @@
+asyncio
+pandas
+tkinter
+datetime
+# utils
+requests
+json
+inspect
